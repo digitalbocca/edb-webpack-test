@@ -1,9 +1,13 @@
 # edb-webpack-test #
-## v0.1.0 ##
+## v0.3.0 ##
 
 > Um teste para aprendizado do webpack.
 
 ## CHANGELOG ##
+
+**Mudanças na v0.3.0**
+
+- Atualização de dependências.
 
 **Mudanças na v0.2.0**
 

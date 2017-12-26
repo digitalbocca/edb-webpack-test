@@ -1,6 +1,6 @@
 {
   "name": "edb-webpack-test",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Um teste para aprendizado do webpack.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/digitalbocca/edb-webpack-test#readme",
   "devDependencies": {
-    "webpack": "^3.8.1"
+    "webpack": "^3.10.0"
   }
 }
