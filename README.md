@@ -1,10 +1,21 @@
 # edb-webpack-test
 
-## v0.4.0
+## v0.5.0
 
 > Um teste para aprendizado do webpack.
+>
+> LEGADO - Este projeto não receberá atualização.
+>
+> Escolhido parcel-bundler para substituição do webpack.
 
-## CHANGELOG ##
+## CHANGELOG
+
+### Mudanças na v0.5.0
+
+- Substituído por Parcel Bundler.
+- Movido para o Arquivo EDB.
+- Atualização de dependências.
+- Correção no README.
 
 ### Mudanças na v0.4.0
 
