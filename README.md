@@ -1,6 +1,6 @@
 # edb-webpack-test
 
-## v0.5.0
+## v0.5.1
 
 > Um teste para aprendizado do webpack.
 >
@@ -9,6 +9,10 @@
 > Escolhido parcel-bundler para substituição do webpack.
 
 ## CHANGELOG
+
+### Mudanças na v0.5.1
+
+- Atualização de dependências (Problemas com dependências).
 
 ### Mudanças na v0.5.0
 
